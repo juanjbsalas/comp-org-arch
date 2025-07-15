@@ -26,7 +26,26 @@ A program that uses structures to store and process information for two students
 
 ## 🚀 How to Run
 
-Will be updated soon
+These programs are written for the x86 architecture and were run using a remote connection to a compatible x86 machine.
+
+To assemble and execute any of the assignments, follow these general steps (assuming you have cloned/forked this repo):
+
+1. **Connect to the x86 machine** (e.g., via SSH or a virtual lab environment provided by your course).
+
+2. **Navigate to the assignment directory**:
+   ```bash
+   cd Assignment2  # or Assignment3, Assignment5, etc.
+3. **Assemble the program** using NASM:
+    ```bash
+    nasm -f elf32 program.asm -o program.o
+4. **Link the object file** to produce an executable:
+    ```bash
+    ld -m elf_i386 -o program program.o
+5. **Run the program:**
+    ```bash
+    ./program
+
+⚠️ Ensure the file names match your .asm files, and that the x86 environment has both nasm and ld installed. If using system calls, ensure the Assembly code is compatible with Linux system conventions for x86 (32-bit).
 
 ## 📝 Notes
 
@@ -34,4 +53,5 @@ Will be updated soon
 
 - Comments in the source files explain key logic and function.
 
---- 
+- All programs were tested on a 32-bit Linux x86 environment.
+
