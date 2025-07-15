@@ -7,18 +7,18 @@ This repository contains programming assignments completed for my Computer Organ
 
 Each folder corresponds to a specific assignment:
 
-### `Assignment2/`
+### `Assignment 2/`
 A program that prompts the user for various inputs, performs calculations based on those inputs, and generates a unique username using the input data.
 
-### `Assignment3/`
+### `Assignment 3/`
 A program that:
 - Accepts a word and a number `X` from the user, then prints the word `X` times.
 - Then requests three space-separated integers, and outputs both the original and sorted list of those numbers.
 
-### `Assignment4/`
+### `Assignment 4/`
 *To be updated soon.*
 
-### `Assignment5/`
+### `Assignment 5/`
 A program that uses structures to store and process information for two students. It calculates:
 - Total and current credit hours
 - GPA
