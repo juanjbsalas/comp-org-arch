@@ -1,4 +1,4 @@
-# COSC273 Computer Organization and Architecture Assignments
+# Computer Organization and Architecture
 
 This repository contains programming assignments completed for my Computer Organization and Architecture course. The programs are written in Assembly language and demonstrate key concepts such as user input handling, string manipulation, data structures, and arithmetic operations.
 
