@@ -2,6 +2,7 @@
 
 This repository contains programming assignments completed for my Computer Organization and Architecture course. The programs are written in Assembly language and demonstrate key concepts such as user input handling, string manipulation, data structures, and arithmetic operations.
 
+
 ## 📂 Folder Structure
 
 Each folder corresponds to a specific assignment:
@@ -26,3 +27,11 @@ A program that uses structures to store and process information for two students
 ## 🚀 How to Run
 
 Will be updated soon
+
+## 📝 Notes
+
+- Each program I designed for educational purposes and aimed to reinforce my low-level programming and architectural understanding.
+
+- Comments in the source files explain key logic and function.
+
+--- 
